@@ -1,1 +1,23 @@
-
+{
+    "categoryNumber": "c1",
+    "wallpapers": [
+        {
+            "wallpaperImage": "https://heavenlife.github.io/WpImages/wallpaperCategories/Ram/Ram1.jpg"
+        },
+        {
+            "wallpaperImage": "https://heavenlife.github.io/WpImages/wallpaperCategories/Ram/Ram2.jpg"
+        },
+        {
+            "wallpaperImage": "https://heavenlife.github.io/WpImages/wallpaperCategories/Ram/Ram3.jpg"
+        },
+        {
+            "wallpaperImage": "https://heavenlife.github.io/WpImages/wallpaperCategories/Ram/Ram4.jpg"
+        },
+        {
+            "wallpaperImage": "https://heavenlife.github.io/WpImages/wallpaperCategories/Ram/Ram5.jpg"
+        },
+        {
+            "wallpaperImage": "https://heavenlife.github.io/WpImages/wallpaperCategories/Ram/Ram6.jpg"
+        }
+    ]
+}
