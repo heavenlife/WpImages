@@ -1,0 +1,28 @@
+{
+  "wallpaperCategories": [
+    {
+      "categoryName": "Ram",
+      "categoryNumber": "c1",
+      "categoryImage": "https://example.com/nature.jpg",
+      "name": "Ram"
+    },
+    {
+      "categoryName": "Mahadev",
+      "categoryNumber": "c2",
+      "categoryImage": "https://example.com/abstract.jpg",
+      "name": "Mahadev"
+    },
+    {
+      "categoryName": "Hanuman",
+      "categoryNumber": "c3",
+      "categoryImage": "https://example.com/wildlife.jpg",
+      "name": "Hanuman"
+    },
+    {
+      "categoryName": "Krishna",
+      "categoryNumber": "c4",
+      "categoryImage": "https://example.com/space.jpg",
+      "name": "Krishna"
+    }
+  ]
+}
